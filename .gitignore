@@ -1,0 +1,35 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+ExamPaperGenerationFe/node_modules
+ExamPaperGenerationFe/npm-debug.log*
+ExamPaperGenerationFe/yarn-error.log
+ExamPaperGenerationFe/yarn.lock
+ExamPaperGenerationFe/package-lock.json
+
+# production
+ExamPaperGenerationFe/dist
+
+# misc
+ExamPaperGenerationFe/.DS_Store
+
+# umi
+ExamPaperGenerationFe/src/.umi
+ExamPaperGenerationFe/src/.umi-production
+ExamPaperGenerationFe/src/.umi-test
+ExamPaperGenerationFe/.env.local
+
+#idea
+ExamPaperGenerationFe/.idea
+
+#vscode
+ExamPaperGenerationFe/.vscode
+
+#logs
+ExamPaperGenerationFe/logs
+
+#temp
+ExamPaperGenerationFe/temp
+
+ExamPaperGenerationBe/resources/images
+ExamPaperGenerationBe/test
